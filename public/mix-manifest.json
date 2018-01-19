@@ -1,14 +1,14 @@
 {
-    "/css/app.css": "/css/app.css",
-    "/css/auth/auth.css": "/css/auth/auth.css",
-    "/css/auth/login.css": "/css/auth/login.css",
-    "/css/groups/create.css": "/css/groups/create.css",
-    "/css/groups/show.css": "/css/groups/show.css",
-    "/css/groups/edit.css": "/css/groups/edit.css",
-    "/css/groups/index.css": "/css/groups/index.css",
-    "/css/home/guest.css": "/css/home/guest.css",
-    "/css/home/user.css": "/css/home/user.css",
-    "/css/responses/create.css": "/css/responses/create.css",
-    "/css/responses/done.css": "/css/responses/done.css",
-    "/css/responses/notSupported.css": "/css/responses/notSupported.css"
+    "/css/a.css": "/css/a.css",
+    "/css/b.css": "/css/b.css",
+    "/css/c.css": "/css/c.css",
+    "/css/d.css": "/css/d.css",
+    "/css/e.css": "/css/e.css",
+    "/css/f.css": "/css/f.css",
+    "/css/g.css": "/css/g.css",
+    "/css/h.css": "/css/h.css",
+    "/css/i.css": "/css/i.css",
+    "/css/j.css": "/css/j.css",
+    "/css/k.css": "/css/k.css",
+    "/css/l.css": "/css/l.css"
 }
