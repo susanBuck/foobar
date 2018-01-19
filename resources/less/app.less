@@ -1,0 +1,90 @@
+@import '_colors';
+@import '_fonts';
+
+#layout-wrapper {
+    max-width: 600px;
+}
+
+header {
+    h1, h2 {
+        text-align: center;
+    }
+}
+
+footer {
+    background-color:white;
+}
+
+menu {
+    padding: 10px;
+    background-color: white;
+    border-bottom: .5px solid @silver;
+
+    // Logout button is in a form
+    form {
+        display: inline;
+    }
+
+    nav, #logoContainer {
+        //border: 1px solid red;
+    }
+
+    #logoContainer {
+        text-align: left;
+        float: left;
+        width: 25%;
+        #logo {
+            width: 172px;
+        }
+    }
+
+    nav {
+        float: right;
+        width: 75%;
+        text-align: right;
+
+        a:link {
+            border: 0;
+            text-transform: uppercase;
+            font-weight: 600;
+            font-size: 1.2rem;
+            padding: 5px 10px;
+        }
+    }
+}
+
+/*----------------------------------------------------
+Mobile styles
+-----------------------------------------------------*/
+@media only screen and (max-width: 600px) {
+
+    #layout-wrapper {
+
+    }
+
+    menu {
+        #logoContainer, nav {
+            //border: 1px solid orange;
+            width: 100%;
+            float: none;
+        }
+
+        h1 {
+            text-align: center;
+            height: 56px;
+        }
+
+        nav {
+            width: 100%;
+            text-align: center;
+            margin-top: 10px;
+
+            a:link {
+                padding: 5px 8px;
+            }
+        }
+    }
+}
+
+
+

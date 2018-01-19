@@ -1,0 +1,43 @@
+.handwriting {
+  font-family: 'Sriracha', 'Georgia', serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+}
+/* Note: This file will be blank when compiled to .css because it only contains variables */
+section {
+  padding: 2rem;
+  margin-bottom: 40px;
+  border: 1px solid #ddd;
+}
+section h2 {
+  text-align: center;
+}
+textarea,
+input[type=text],
+input[type='email'],
+input[type='password'] {
+  width: 100%;
+}
+textarea[name=message] {
+  font-size: 1.5rem;
+  height: 150px;
+  text-align: left;
+}
+ul.radios,
+ul.checkboxes {
+  text-align: left;
+}
+textarea[name='restrict'] {
+  text-align: left;
+}
+button {
+  display: block;
+  width: 300px;
+  margin: auto;
+}

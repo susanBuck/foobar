@@ -1,0 +1,39 @@
+/* Note: This file will be blank when compiled to .css because it only contains variables */
+#layout-wrapper {
+  text-align: center;
+}
+section {
+  padding: 2rem;
+}
+section h2 {
+  text-align: center;
+}
+.step {
+  display: block;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+textarea,
+input[type=text],
+input[type='email'],
+input[type='password'] {
+  width: 100%;
+  text-align: center;
+}
+textarea[name='message'] {
+  font-size: 1.5rem;
+  height: 150px;
+  text-align: center;
+}
+#url {
+  margin-top: 1rem;
+}
+#url #appUrl {
+  font-family: Consolas, monospace;
+}
+#url input[name='slug'] {
+  font-family: Consolas, monospace;
+  display: inline;
+  width: 200px;
+  text-align: left;
+}

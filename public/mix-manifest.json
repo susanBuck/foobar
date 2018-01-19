@@ -1,0 +1,10 @@
+{
+    "/css/app.css": "/css/app.css",
+    "/css/auth/auth.css": "/css/auth/auth.css",
+    "/css/auth/login.css": "/css/auth/login.css",
+    "/css/groups/create.css": "/css/groups/create.css",
+    "/css/groups/edit.css": "/css/groups/edit.css",
+    "/css/home/guest.css": "/css/home/guest.css",
+    "/css/responses/done.css": "/css/responses/done.css",
+    "/css/responses/notSupported.css": "/css/responses/notSupported.css"
+}
